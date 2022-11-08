@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @foxy-gal
 - 👀 I’m interested in system analysis, software development, architecture, ML
-- 🌱 I’m currently learning maths, ML, python
+- 🌱 I’m currently learning maths, ML, python at Ural Federal University.
 - 💞️ I'm not looking to collaborate on right now.
 - 📫 Feel free to contact me by email or direct messages
 
